@@ -1,0 +1,70 @@
+.loginsineup{
+    width: 100%;
+    height: 80vh;
+    background: #fce3fe;
+    padding-top: 100px;
+
+}
+
+.loginsineup__conteiner{
+    width: 580px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+}
+
+.loginsineup__conteiner h1{
+    margin: 20px 0px;
+}
+
+.loginsineup__fiels{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.loginsineup__fiels input{
+    height: 72px;
+    width: 100%;
+    padding-left:20px ;
+    border: 1px solid #fce3fc;
+    outline: none;
+    color: #5f5f5f;
+    font-size: 18px;
+}
+
+.loginsineup__conteiner button{
+    width: 580px;
+    height: 72px;
+    color: white;
+    background: #ff4141;
+    margin-top: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.loginsineup__login{
+    margin-top: 20px;
+    color: #777777;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.loginsineup__login span{
+    color: #ff4141;
+    font-weight: 600;
+}
+
+.loginsineup__agri{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    gap: 20px;
+    color:#777777;
+    font-size: 18px;
+    font-weight: 500;
+}
